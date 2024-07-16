@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/PaintCalculator.java
+    visible: true
+    propagatable: false
+  - name: test/Task2Tests.java
+    visible: false
+    propagatable: false
+  - name: test/Task1Tests.java
+    visible: false
+    propagatable: false

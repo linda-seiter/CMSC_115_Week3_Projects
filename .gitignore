@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/PaintCalculator/Task1 - ceilingArea method/build/
+/PaintCalculator/Task1 - ceilingArea method/out/
+/PaintCalculator/Task1 - ceilingArea method/out/production/classes/
+/PaintCalculator/Task2 - wallArea method/build/
+/PaintCalculator/Task2 - wallArea method/out/
+/PaintCalculator/Task2 - wallArea method/out/production/classes/
+/PaintCalculator/Task3 - roomArea method/build/
+/PaintCalculator/Task3 - roomArea method/out/
+/PaintCalculator/Task3 - roomArea method/out/production/classes/
+/PaintCalculator/Task4 - gallonsPaint method/build/
+/PaintCalculator/Task4 - gallonsPaint method/out/
+/PaintCalculator/Task4 - gallonsPaint method/out/production/classes/
+/PaintCalculator/Task5 - main method CLI/build/
+/PaintCalculator/Task5 - main method CLI/out/
+/PaintCalculator/Task5 - main method CLI/out/production/classes/

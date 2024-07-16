@@ -1,0 +1,5 @@
+type: theory
+files:
+  - name: src/PaintCalculator.java
+    visible: true
+    propagatable: false

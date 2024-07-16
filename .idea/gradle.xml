@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PaintCalculator/Introduction" />
+            <option value="$PROJECT_DIR$/PaintCalculator/Task1 - ceilingArea method" />
+            <option value="$PROJECT_DIR$/PaintCalculator/Task2 - wallArea method" />
+            <option value="$PROJECT_DIR$/PaintCalculator/Task3 - roomArea method" />
+            <option value="$PROJECT_DIR$/PaintCalculator/Task4 - gallonsPaint method" />
+            <option value="$PROJECT_DIR$/PaintCalculator/Task5 - main method CLI" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+type: marketplace
+title: CMSC 115 Week3 Projects
+language: English
+programming_language: Java
+content:
+  - PaintCalculator
+environment_settings:
+  jvm_language_level: JDK_1_8

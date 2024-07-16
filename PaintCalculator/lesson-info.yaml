@@ -1,0 +1,9 @@
+type: framework
+content:
+  - Introduction
+  - Task1 - ceilingArea method
+  - Task2 - wallArea method
+  - Task3 - roomArea method
+  - Task4 - gallonsPaint method
+  - Task5 - main method CLI
+is_template_based: false
