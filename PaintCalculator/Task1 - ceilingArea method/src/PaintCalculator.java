@@ -12,7 +12,10 @@ public class PaintCalculator {
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println("ceilingArea(10.0, 8.5) = " + ceilingArea(10.0, 8.5));
+        //TODO Task#5
+
+        //Temporary print statements to call methods for current task
+        System.out.println("ceilingArea(12.0, 15.0) = " + ceilingArea(12.0, 15.0));
         System.out.println("ceilingArea(7.5, 11.5) = " + ceilingArea(7.5, 11.5));
     }
 

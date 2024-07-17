@@ -12,6 +12,9 @@ public class PaintCalculator {
      * @param args
      */
     public static void main(String[] args) {
+        //TODO Task#5
+
+        //Temporary print statements to call methods for current task
         System.out.println("gallonsPaint(12.0, 15.0, 10.0) = " + gallonsPaint(12.0, 15.0, 10.0));
         System.out.println("gallonsPaint(7.5, 11.5, 8.25) = " + gallonsPaint(7.5, 11.5, 8.25));
     }

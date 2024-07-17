@@ -1,6 +1,6 @@
 <img src="../../common/images/room.png" alt=prism width=150>
 
-Type `^Ctrl` `R` to run the program. The `ceilingArea` method 
+Type `^Ctrl` `R` to run the program and view the output. The `ceilingArea` method 
 should return the area of the ceiling (face C).
 However, the method simply returns 0.0.
 
